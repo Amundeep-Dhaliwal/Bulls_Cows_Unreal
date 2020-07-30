@@ -1,0 +1,5 @@
+sigma
+beta
+zeta
+delta
+epsilon
